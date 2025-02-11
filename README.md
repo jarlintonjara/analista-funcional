@@ -29,14 +29,13 @@ Welcome to my GitHub resume. I am a **Functional Analyst** with experience in re
 ---
 
 ## 🔗 **Contacto | Contact**  
-📧 Email: [Tu Correo]  
-💼 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/tuusuario)  
+📧 Email: alejarahi@gmail.com  
+💼 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/jarlinton-alexis-jara-hidalgo/)
 🚀 Portafolio: [Tu Web o GitHub Pages](https://jarlintonjara.github.io/analista-funcional)  
+🚀 Celular: +51 978578598
 
 ---
 
-### 📢 **Palabras clave para mejorar la visibilidad**  
-(¡Estas palabras clave ayudan a que los reclutadores te encuentren más rápido!)  
 
 **Español:** analista funcional, requisitos de software, gestión de proyectos, documentación técnica, ERP, integración de APIs, automatización de procesos, SQL, Quickbase, Odoo, Creatio, UML, diagramas de flujo.  
 
