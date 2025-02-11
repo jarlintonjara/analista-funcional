@@ -30,8 +30,8 @@ Welcome to my GitHub resume. I am a **Functional Analyst** with experience in re
 
 ## 🔗 **Contacto | Contact**  
 📧 Email: alejarahi@gmail.com  
-💼 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/jarlinton-alexis-jara-hidalgo/)
-🚀 Portafolio: [Tu Web o GitHub Pages](https://jarlintonjara.github.io/analista-funcional)  
+💼 LinkedIn: [Mi Perfil](https://www.linkedin.com/in/jarlinton-alexis-jara-hidalgo/)
+🚀 Portafolio: [GitHub Pages](https://jarlintonjara.github.io/analista-funcional)  
 🚀 Celular: +51 978578598
 
 ---
